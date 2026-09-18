@@ -1,0 +1,3 @@
+float32 encoder_a
+float32 encoder_b
+float32 encoder_c

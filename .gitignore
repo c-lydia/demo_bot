@@ -21,3 +21,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+build/
+install/
+log/
+.nvimlog/

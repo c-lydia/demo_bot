@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>can_drive_c</name>
+  <version>0.0.1</version>
+  <description>High-performance CAN driver package implemented in C++.</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>custom_messages</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

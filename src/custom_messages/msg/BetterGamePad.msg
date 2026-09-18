@@ -1,0 +1,35 @@
+uint16 device_id
+
+uint8 left_analog_x
+uint8 left_analog_y
+uint8 right_analog_x
+uint8 right_analog_y
+bool dpad_up
+bool dpad_left
+bool dpad_right
+bool dpad_down
+bool button_y
+bool button_x
+bool button_b
+bool button_a
+bool button_lt
+bool button_lb
+bool button_rt
+bool button_rb
+bool button_m1
+bool button_m2
+
+bool previous_button_up
+bool previous_button_left
+bool previous_button_right
+bool previous_button_down
+bool previous_button_y
+bool previous_button_x
+bool previous_button_b
+bool previous_button_a
+bool previous_button_lt
+bool previous_button_lb
+bool previous_button_rt
+bool previous_button_rb
+bool previous_button_m1
+bool previous_button_m2
